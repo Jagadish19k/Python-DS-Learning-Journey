@@ -16,7 +16,7 @@ I'll soon add:
 - `07_projects` → mini data science projects
 
 ## 🧠 Tools
-- Python 3.x
+- Python 3.12.3
 - VS Code
 - GitHub for version control
 
