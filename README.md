@@ -9,11 +9,12 @@ Each folder represents a learning milestone:
 - `03_functions` → functions, *args, **kwargs, decorators
 - `04_oop` → classes, inheritance, encapsulation
 - `05_advanced` → file handling, exceptions, lambda, map/filter
-
-## 🚀 Next Steps
-I'll soon add:
 - `06_numpy_pandas` → for data cleaning and analysis
 - `07_projects` → mini data science projects
+ 
+## 🚀 Next Steps
+I'll soon add:
+ML/SQL Projects
 
 ## 🧠 Tools
 - Python 3.12.3
